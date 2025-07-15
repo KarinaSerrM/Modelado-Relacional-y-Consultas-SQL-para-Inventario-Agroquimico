@@ -1,0 +1,101 @@
+ProductoID,Nombre,Tipo,Formulacion,UnidadMedida,PrecioUnitario,FechaRegistro,Activo
+1,Kids' Art Easel,Herbicida,Non est omnino hic docendi locus; sed ita sentio et saepe etiam legum iudiciorumque poenis obligantu,oz,58.99,2025-02-04,1
+2,Sweet Chili Sauce,Insecticida,"Dolore. Omnis autem privatione doloris putat Epicurus terminari summam voluptatem, ut ea maior sit, ",kg,2.99,2024-06-15,0
+3,Children's Art Set,Insecticida,"Habeat sapiens, quod gaudeat, quam quod angatur. Optime vero Epicurus, quod exiguam dixit fortunam i",L,34.99,2024-06-20,0
+4,Compact Digital Camera,Herbicida,"Solum incommoda, quae eveniunt inprobis, fugiendam inprobitatem putamus, sed multo etiam magis, quod",g,249.99,2025-03-15,1
+5,Outdoor Portable Fire Pit,Insecticida,Atomorum et magnitudinem solis probabo et Democriti errata ab Epicuro reprehensa et correcta permult,ml,149.99,2025-03-12,0
+6,Peanut Butter,Herbicida,"Quod appellant honestum non tam id reprehendunt, si remissius agatur, sed tantum studium tamque mult",oz,3.79,2024-11-05,1
+7,Asian Noodle Salad Kit,Herbicida,"Ita defendit Epicurus neque Metrodorus aut quisquam eorum, qui aut saperet aliquid.",L,4.99,2025-05-06,1
+8,Set of Silicone Cooking Utensils,Insecticida,"Sentiri haec putat, ut calere ignem, nivem esse albam, dulce mel. Quorum nihil oportere exquisitis r",kg,29.99,2024-08-06,0
+9,Honey mustard chicken tenders,Herbicida,"Fieri minus; ita effici complexiones et copulationes et adhaesiones atomorum inter se, ex quo vitam ",ml,7.99,2025-02-24,1
+10,Whole Grain Cereal,Insecticida,"Dolore. Omnis autem privatione doloris putat Epicurus terminari summam voluptatem, ut postea variari",g,3.49,2025-01-15,0
+11,Almond Joy Bars,Insecticida,"Id reprehendunt, si remissius agatur, sed tantum studium tamque multam operam ponendam in eo ipso pa",oz,1.29,2025-02-16,0
+12,Dried Fruit Medley,Herbicida,"Mala sint, laetitia, si bona. O praeclaram beate vivendi et apertam et simplicem et directam viam! C",ml,5.49,2024-11-07,1
+13,Digital Bullet Journal,Insecticida,"Sic de iustitia iudicandum est, quae non modo numquam nocet cuiquam, sed contra semper afficit cum v",L,24.99,2024-08-29,0
+14,Creamy Spinach Dip,Herbicida,"Dominorum domus; quo minus id, quod quaeritur, sit pulcherrimum. Etenim si delectamur, cum scribimus",kg,5.99,2024-11-12,1
+15,Classic Vanilla Fudge,Insecticida,"Litteris arbitramur, in quibus, quantum potuimus, non modo fautrices fidelissimae, sed etiam spe eri",g,4.49,2024-09-07,0
+16,Coconut Rice,Herbicida,Ut aliquid ex ea commodo consequat. Duis aute.,kg,2.29,2024-12-02,1
+17,Oats,Herbicida,"Aliquam ex eo perciperet corpore voluptatem, aut cum Latinis tertio consulatu conflixisse apud Veser",L,3.29,2024-10-23,1
+18,Home Cleaning Robot,Insecticida,"Res referuntur omnes, fatendum est summum esse bonum quicquam nisi nescio quam illam umbram, quod ap",g,249.99,2024-10-01,0
+19,Travel Mug with Leak-Proof Lid,Insecticida,"Interrogari. Ut placet, inquam. Tum dicere exorsus.",oz,24.99,2024-12-05,0
+20,Sweet Corn Fritters,Herbicida,"Primorum signiferumque, maluisti dici. Graece ergo praetor Athenis, id quod maluisti, te, cum ad me ",ml,4.49,2025-02-24,1
+21,Lemon Lime Sparkling Water,Herbicida,"Animi quam corporis. Nam corpore nihil nisi praesens et quod adest sentire possumus, animo autem et.",ml,1.99,2025-05-02,1
+22,Hiking Water Bottle with Filter,Insecticida,"Exeduntur, a diis inmortalibus supplicii causa importari putant. Quae autem inanes sunt, iis parendu",g,29.99,2025-03-11,0
+23,Coconut Curry Sauce,Herbicida,Esse cillum dolore eu fugiat nulla pariatur. Excepteur.,oz,3.89,2025-05-31,1
+24,Honey Butter Popcorn,Insecticida,"Et terminatas habet; inanium autem cupiditatum nec modus est ullus investigandi veri, nisi inveneris",kg,2.99,2025-04-13,0
+25,Smartphone Tripod,Insecticida,"Abducat? Sin laboramus, quis est, qui dolorem eum fugiat, quo voluptas nulla pariatur? At vero eos e",L,29.99,2024-10-31,0
+26,Pumpkin Spice Latte Mix,Herbicida,"Praeclare enim Epicurus his paene verbis: 'Eadem', inquit, 'scientia confirmavit animum, ne quod aut",oz,3.29,2025-04-03,1
+27,Honey Ginger Tea,Insecticida,"In eo, qui ita sit affectus, et firmitatem animi nec mortem nec dolorem timentis, quod.",ml,2.99,2025-06-06,0
+28,Magic Color-Changing Mug,Herbicida,"In ipsa iniuria detrimenti est quam in iis corrigere voluit, deteriora fecit. Disserendi artem nulla",kg,14.99,2025-03-18,1
+29,LED Strip Lights with Remote Control,Herbicida,"Labore deterret --, sic isti curiosi, quos offendit noster minime nobis iniucundus labor. Iis igitur",L,29.99,2025-05-17,1
+30,Avocado Lime Dressing,Insecticida,"Possimus, molestia liberemus. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis su",g,4.29,2025-01-21,0
+31,Children's Educational Workbook,Insecticida,"Etiam, quem optimus quisque pro patria et pro suis suscipit, ut.",L,12.99,2025-02-11,0
+32,Herbed Couscous,Herbicida,"Propter voluptatem; cum autem usus progrediens familiaritatem effecerit, tum amorem efflorescere tan",kg,2.49,2024-10-08,1
+33,Pumpkin Seeds,Herbicida,"Quisquis enim sentit, quem ad modum temeritas et libido et ignavia semper animum excruciant et sempe",ml,2.79,2024-10-06,1
+34,Adjustable Garden Rake,Insecticida,"Contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest. Quodsi vi",g,22.99,2024-07-20,0
+35,LED Desk Lamp with USB Charging Port,Herbicida,"Te, cum ad te ne Graecis quidem cedentem in philosophia audeam scribere? Quamquam a te ipso id quide",oz,29.99,2024-09-22,1
+36,Baby Monitor,Insecticida,"Voluptatem. Quisquis enim sentit, quem ad modum temeritas et libido et ignavia semper animum excruci",kg,79.99,2024-12-25,0
+37,Infrared Space Heater,Herbicida,"Modo dixi, constituto, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis dolo",ml,99.99,2025-03-20,1
+38,Lemon Garlic Shrimp,Insecticida,"Id, quod his libris quaeritur, qui sit finis, quid extremum, quid ultimum, quo sint omnia bene.",g,8.99,2025-01-14,0
+39,Camera Tripod,Insecticida,"Eius magnitudinem celeritas, diuturnitatem allevatio.",oz,49.99,2025-03-28,0
+40,Cacao Nibs,Herbicida,Omittantur maiorum voluptatum adipiscendarum causa aut dolores suscipiantur maiorum dolorum effugien,L,6.49,2024-08-27,1
+41,Oven Mitts with Pocket,Insecticida,"Graviter ornateque dictas quis non legat? Nisi qui se plane Graecum dici velit, ut a Scaevola est pr",ml,19.99,2025-01-05,0
+42,Quinoa and Kale Salad Kit,Herbicida,"Praesentibus fruuntur, sed etiam cogitemus; infinitio ipsa, quam apeirian vocant, tota ab illo inven",L,5.29,2024-12-28,1
+43,Safety Goggles,Insecticida,Sollicitare possit aut angere. Praeterea et appetendi et refugiendi et omnino rerum gerendarum initi,kg,14.99,2024-10-10,0
+44,Heat-Resistant Silicone Mat,Herbicida,Frustra se aut pecuniae studuisse aut imperiis aut opibus aut.,g,19.99,2025-02-24,1
+45,Garlic Naan Bread,Insecticida,"Videantur. Invitat igitur vera ratio bene sanos ad iustitiam, aequitatem, fidem, neque homini.",oz,3.99,2024-09-29,0
+46,Silicone Baking Cups,Herbicida,In primis gravis et doctus.,kg,10.99,2024-08-21,1
+47,Foam Building Blocks for Kids,Insecticida,"Aut aliquid ferre denique' -- non enim illum ab industria, sed ab inliberali labore deterret --, sic",L,22.99,2024-11-24,0
+48,Mushroom Soup (canned),Herbicida,"Nam libero tempore, cum soluta nobis est eligendi optio, cumque nihil impedit, quo minus animus a se",g,2.49,2024-12-14,1
+49,Vegetable Spring Rolls,Herbicida,"Triarium, minus ab eo dissentiunt, sed certe non probes, eum quem ego arbitror unum vidisse verum ma",oz,6.49,2024-12-21,1
+50,Homestyle Chicken Noodle Soup,Insecticida,"Posse iudicare arbitrarer, plura suscepi veritus ne movere hominum studia viderer, retinere non poss",ml,2.99,2024-12-27,0
+51,Fishing Rod,Herbicida,"Aegritudo sequatur, si illa mala sint, laetitia, si bona. O praeclaram beate vivendi et apertam et s",g,49.99,2024-09-26,1
+52,Plant Watering Spikes,Insecticida,"Ad tranquillitatem ferant, quid est cur dubitemus dicere et sapientiam propter voluptates expetendam",oz,12.99,2024-09-29,0
+53,Siphon Coffee Maker,Herbicida,"Vitae tenere possumus neque vero ipsam amicitiam tueri, nisi aeque amicos et nosmet ipsos diligamus,",kg,49.99,2025-01-17,1
+54,Canvas Wall Art,Insecticida,"Sis aequitate, quam ostendis. Sed uti oratione perpetua malo quam interrogare aut interrogari. Ut pl",L,39.99,2025-06-12,0
+55,Portable Blender,Insecticida,"Difficilem quandam temperantiam postulant in eo, quod semel admissum coerceri reprimique non potest,",ml,30,2025-03-15,0
+56,Fall-Themed Table Runner,Herbicida,"Atque in sanguinem suum tam crudelis fuisse, nihil ut de commodis suis cogitarent? At id ne ferae qu",oz,19.99,2024-10-15,1
+57,Oven-Baked Chicken Tenders,Insecticida,"Necessariae, alterum, quae naturales essent nec tamen necessariae, tertium, quae nec naturales nec n",ml,6.99,2024-08-24,0
+58,Wooden Children's Play Kitchen,Herbicida,"Honestum non tam solido quam splendido nomine, virtutem autem nixam hoc honesto nullam requirere vol",kg,129.99,2024-07-19,1
+59,Dark Chocolate Covered Raisins,Herbicida,"Disciplinis diceretur, persecuti sumus. Ut autem a facillimis ordiamur, prima veniat in medium Epicu",L,3.99,2024-10-16,1
+60,Sliced Turkey Breast,Insecticida,Plus voluptatum habeat quam dolorum. Nam et praeterita et futura. Ut enim.,g,5.49,2025-05-07,0
+61,Electric Griddle with Lid,Herbicida,"Ratio docet, tum denique poterit aliquid cognosci et percipi. Quos qui tollunt et nihil.",oz,49.99,2025-02-26,1
+62,Glass Water Bottle,Insecticida,"Sit, voluptatem appetere eaque gaudere ut summo bono, dolorem aspernari ut summum malum et, quantum ",ml,25.99,2024-08-11,0
+63,Biodegradable Trash Bags,Herbicida,"Sed potius inflammat, ut coercendi magis quam dedocendi esse videantur. Invitat igitur vera ratio be",kg,12.99,2024-11-20,1
+64,Sports Windbreaker,Insecticida,"Dicunt, ii remotis sensibus ne id ipsum quidem expedire possunt, quod disserunt. Praeterea sublata c",L,44.99,2024-09-17,0
+65,Zesty Cilantro Lime Dressing,Insecticida,"Potest quanta voluptas sit non dolere. Sed ut omittam pericula, labores, dolorem etiam, quem optimus",g,3.29,2025-03-19,0
+66,Snack Container Set,Herbicida,"Everti, si ita res se habeat. Nam si dicent ab illis has res esse tractatas, ne ipsos quidem Graecos",kg,19.99,2024-10-18,1
+67,Natural Fruit Snacks,Herbicida,"Irure dolor in longinquitate levis, in gravitate brevis soleat esse, ut eius magnitudinem celeritas,",L,3.99,2024-11-09,1
+68,Chili Lime Seasoning,Insecticida,"Iucundius, id est voluptatem. Homines optimi non intellegunt totam rationem everti, si ita res.",g,2.99,2025-05-29,0
+69,Chewy Granola Bars,Insecticida,"At contra gaudere nosmet omittendis doloribus, etiamsi voluptas ea, quae dicta sunt ab iis quos prob",oz,3.49,2024-11-24,0
+70,Smart LED Desk Lamp,Herbicida,"Qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui Ennii Medeam aut Antiopam Pacuv",ml,39.99,2024-08-14,1
+71,Chocolate Mint Cookies,Herbicida,"Omnibus iudicari potest non modo non repugnantibus, verum etiam approbantibus nobis. Sic enim ab Epi",ml,2.29,2024-09-24,1
+72,Luxe Velvet Blazer,Insecticida,"Quaeritur saepe, cur tam multos legant, quam legendi sunt. Quid enim me prohiberet Epicureum esse, s",L,89.99,2025-05-02,0
+73,Cinnamon Ice Cream,Herbicida,"Dicitis; non posse reperiri. Quapropter si ea, quae dixi, sole ipso illustriora et clariora sunt, si",kg,4.99,2025-03-09,1
+74,Cocktail Shaker Set,Insecticida,"Id neque feci adhuc nec mihi tamen, ne faciam, interdictum puto. Locos quidem quosdam, si videbitur,",g,29.99,2025-04-13,0
+75,Basil-infused Olive Oil,Herbicida,"Ante collegi, abest plurimum et, cum stultorum vitam cum sua comparat.",oz,6.99,2025-04-21,1
+76,Fitness Foam Roller,Insecticida,"Geometria, numeris, astris contereret, quae et splendide dicta sint neque sint conversa de Graecis? ",L,29.99,2024-12-17,0
+77,Peach Mango Smoothie,Insecticida,"Aliquo laborat, nemo igitur est difficilius satis facere, qui se dicant in Graecis legendis operam m",kg,3.49,2024-12-19,0
+78,Reflective Safety Vest,Herbicida,"Magis, quod, cuius in animo versatur, numquam sinit eum respirare, numquam adquiescere. Quodsi ne ip",g,19.99,2024-06-23,1
+79,Maxi Wrap Dress,Herbicida,"Honestatis decore laudandis, id totum.",oz,49.99,2024-11-15,1
+80,Coffee Maker,Insecticida,Corporis. Nam corpore nihil nisi.,ml,89.99,2025-06-12,0
+81,Compressible Packing Cubes,Herbicida,"Probaturum esse confidam. Certe, inquam, pertinax non ero tibique, si mihi probabis ea, quae dices, ",ml,29.99,2025-05-23,1
+82,Chicken Broth,Insecticida,"Extremum -- quod et scripta multa sunt, sic ut plura nemini e nostris, qui haec subtilius velint tra",L,2.49,2025-01-01,0
+83,Drone,Insecticida,"Volunt voluptatibus, ut nulli propter eas consequantur.",kg,249.99,2025-02-08,0
+84,Wireless Induction Charger,Herbicida,"Proficiscuntur, facile explentur sine ulla iniuria, quae autem inanes sunt, iis parendum non est. Ni",g,19.99,2024-12-04,1
+85,Organic Almonds,Insecticida,"Non intellegamus, tu tam egregios viros censes tantas res gessisse sine causa? Quae fuerit causa.",oz,8.99,2025-04-24,0
+86,Ginger Tea,Herbicida,"Ceteris ab hoc, qui eum unum secutus esset, nollem vituperatum. Iam in altera philosophiae parte. Qu",ml,4.99,2025-01-07,1
+87,Fitness Jump Box,Herbicida,Beata esse potest nec in discordia dominorum domus; quo minus omnes mea legant. Utinam esset ille Pe,oz,69.99,2025-03-07,1
+88,Fresh Basil Pesto,Insecticida,"Se indicaverunt. Quodsi qui satis sibi contra hominum conscientiam saepti esse et muniti videntur, d",kg,4.79,2025-01-23,0
+89,Portable Bluetooth Headphones,Herbicida,"Qui autem, si maxime hoc placeat, moderatius tamen id confidet fore semper occultum. Plerumque impro",L,79.99,2024-09-12,1
+90,Coconut Water,Insecticida,"Sit fictae veterum fabulae declarant, in quibus tam multis tamque variis ab ultima antiquitate repet",g,2.49,2024-11-27,0
+91,Honey Mustard Pretzel Bites,Herbicida,"Me accedis, saluto: 'chaere,' inquam, 'Tite!' lictores, turma omnis chorusque: 'chaere, Tite.",L,3.99,2024-06-20,1
+92,Coconut Bowls Set,Insecticida,"Etiam quid a singulis philosophiae disciplinis diceretur, persecuti sumus. Ut autem a facillimis ord",kg,22.99,2025-04-16,0
+93,Sun-Dried Tomato Pesto,Insecticida,"Eveniet, ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum defuturum",g,4.49,2025-02-28,0
+94,Spinach Feta Wraps,Herbicida,Facere nondum depravatum ipsa natura incorrupte atque integre iudicante. Itaque negat opus esse rati,oz,4.29,2025-05-18,1
+95,Soft Plush Throw Blanket,Herbicida,Primos congressus copulationesque et consuetudinum instituendarum voluntates fieri propter voluptate,ml,29.99,2025-03-07,1
+96,Travel Size Toiletry Bottles,Insecticida,A te ipso id quidem.,kg,9.99,2025-05-23,0
+97,Insulated Lunch Bag,Herbicida,"Et aegritudines ad dolorem referuntur, nec praeterea est res ulla, quae sua natura aut sollicitare p",g,24.99,2025-04-29,1
+98,Frozen Fruit Medley,Insecticida,"Rationem habet, utilitate, non arte laudatur, sic sapientia, quae ars vivendi putanda est.",oz,5.99,2024-11-23,0
+99,Pet Hair Removal Brush,Insecticida,"Est tam invidus, qui ab eo et gravissimas res consilio ipsius et ratione administrari neque maiorem ",ml,14.99,2024-12-30,0
+100,Customizable Wall Calendar,Herbicida,"Excepturi sint, obcaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mol",L,24.99,2024-07-18,1
