@@ -44,6 +44,7 @@ Construir una base de datos bien estructurada para representar productos, pedido
 - Python 3.x  
 - pandas (para visualización opcional)  
 - DB Browser for SQLite / SQLiteStudio
+- Ayuda para generar datos al azar https://www.mockaroo.com
 
 ## Conclusiones
 
